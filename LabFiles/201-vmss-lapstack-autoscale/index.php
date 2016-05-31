@@ -1,5 +1,5 @@
 <html>
-  <head><title>Scale Set Autoscale demo app</title></head>
+  <head><title>Scale Set Autoscale demo app Accelerate Lab 2</title></head>
   <body>
     <?php $hostname = gethostname(); ?>
     <center>

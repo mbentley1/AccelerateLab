@@ -2,7 +2,7 @@
   <!-- Example PHP to load the CPU. $num corresponds to approximately the number 
        of seconds you want to do work for, depending on machine size
   -->
-  <head><title>VM Scale Set CPU load example</title></head>
+  <head><title>VM Scale Set CPU load example Accelerate Lab 2</title></head>
   <body>
     <br/><br/>
     <?php $hostname = gethostname(); ?>
